@@ -1,3 +1,6 @@
+#Created By Michael Olvera
+#2015
+
 library(ggplot2)
 library(ggmap)
 library(maps)
